@@ -1,0 +1,1 @@
+Resource pack for the Blockbuddies server.

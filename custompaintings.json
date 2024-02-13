@@ -1,0 +1,27 @@
+{
+  "id": "blockbuddies_paintings",
+  "name": "Blockbuddies Paintings",
+  "paintings": [
+    {
+      "id": "venta_monto",
+      "name": "Venta Monto",
+      "artist": "baxter",
+      "width": 4,
+      "height": 1
+    },
+    {
+      "id": "got_milk",
+      "name": "Got Milk?",
+      "artist": "baxter",
+      "width": 2,
+      "height": 3
+    },
+    {
+      "id": "train_map_1",
+      "name": "Train Map 1",
+      "artist": "baxter",
+      "width": 3,
+      "height": 4
+    }
+  ]
+}
